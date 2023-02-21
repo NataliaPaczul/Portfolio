@@ -32,8 +32,6 @@ I have background in Sociology and Slavic Studies. My current job gave me new op
 
 * GitHub
 
-* HTML/CSS
-
 * Markdown
 
 * Screenpresso
@@ -84,4 +82,4 @@ I have background in Sociology and Slavic Studies. My current job gave me new op
 * Two task during 4-day QA Marathon from GoIT - [part 1](https://drive.google.com/drive/folders/1SvJju7M6V0Ulv5gcUzWKidWzTS90sava) and [part 2](https://drive.google.com/drive/folders/1GE-kclK6-vETSyYUI5-1X-jAWuOTUSdO). Both task done in Jira.
 
 ### SQL ###
-MySQL queries created for a task from DareIT Challenge - [task 1](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/tree/main/TASK%205/Subtask%203) and [part2](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/blob/main/TASK%206/Subtask%202.md).
+* MySQL queries created for a task from DareIT Challenge - [task 1](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/tree/main/TASK%205/Subtask%203) and [part2](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/blob/main/TASK%206/Subtask%202.md).
