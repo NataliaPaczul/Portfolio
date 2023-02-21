@@ -7,7 +7,7 @@ My name is Natalia Paczul and I am an aspiring Software Tester.
 I have background in Sociology and Slavic Studies. My current job gave me new opportunities and I became interested in software testing, although I don't have much experience. As I'm looking to transition my career to software testing, I'm passionate about continuing to develop my skills and expanding my knowledge. With my diverse academic experience, I'm creative and able to think outside of the box when tackling software testing tasks. I'm a quick learner and the flexibility of the software testing role allows me to continue to grow and evolve in my profession. I'm excited to enter the world of software testing, and to see what I can contribute in the field.
 
 ## Courses
-* DareIT Challenge: Zostań Testerem Manualnym [Challenge Portfolio](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/find/main)
+* DareIT Challenge: Zostań Testerem Manualnym [Challenge Portfolio](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/blob/main/README.md)
 
 * SQL in 120 minutes on [kursysql.pl](https://www.kursysql.pl/)
 
