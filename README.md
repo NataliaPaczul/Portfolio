@@ -72,7 +72,9 @@ I have background in Sociology and Slavic Studies. My current job gave me new op
 ## Examples of my work
 
 ### Test cases ###
-My test cases from [exploring testing](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/blob/main/Task%202/Subtask%201.md)(in English) and from [user stpry](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/blob/main/Task%202/Subtask%202.md)(in English) to Futbol Kolektyw: Scouts Panel page. Priject done during DareIT Challenge: Zostań Testerem Manualnym.
+* My test cases from [exploring testing](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/blob/main/Task%202/Subtask%201.md) (in English) and from [user stpry](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/blob/main/Task%202/Subtask%202.md) (in English) to Futbol Kolektyw: Scouts Panel page. Priject done during DareIT Challenge: Zostań Testerem Manualnym.
+
+* [Test cases](https://drive.google.com/drive/folders/1ueGQwVh1w3-hSMwB4U8TjfV28UjyXqMB) (in Polish) done during 4-day QA Marathon from GoIT. Project done in TestRail.
 
 Test case (in Russian) for authorisation. Check the screenshot from TestRail here.
 Test case (in Russian) for adding an item to the cart. See the screenshot from TestRail here.
