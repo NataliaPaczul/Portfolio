@@ -76,20 +76,12 @@ I have background in Sociology and Slavic Studies. My current job gave me new op
 
 * [Test cases](https://drive.google.com/drive/folders/1ueGQwVh1w3-hSMwB4U8TjfV28UjyXqMB) (in Polish) done during 4-day QA Marathon from GoIT. Project done in TestRail.
 
-Test case (in Russian) for authorisation. Check the screenshot from TestRail here.
-Test case (in Russian) for adding an item to the cart. See the screenshot from TestRail here.
-Test suits and a test run for the cart. See the screenshots from TestRail here.
-Bug reports and work in Jira
-Several bugs found on the training webpage Loan Calculator and reported:
-Bug #1. Check the screenshot of the bug report in Jira.
-Bug #2. Check the screenshot of the bug report in Jira.
-Bug #3. Check the screenshot of the bug report in Jira.
-An example of a project in Jira. Check the screenshot.
-Mindmaps and diagrams
-Functional decomposition of the training webpage Loan Calculator. Check the mindmap.
-State-transition diagram of the loan application at the training webpage Loan Calculator. Check the diagram.
-Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check the diagram.
-Mindmap of the interfaces of the training webpage Enotes. Check the mindmap.
-Scripts for PICT (pairwise testing)
-Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See the script for MS PICT and the results of the script execution.
-Generating combinations for the form consisting of 5 fields. See the script for MS PICT and the results of the script execution.
+### Bugs ###
+* [Bug reports](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/tree/main/Task%203/Subtask%202) and [test report](https://drive.google.com/drive/folders/1TQckY_Dm6BPNjITicdtMVyfi8rx3yC7X?usp=sharing) done for Futbol Kolektyw: Scouts Panel page. Priject done during DareIT Challenge: Zostań Testerem Manualnym.
+
+* [Bugs](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/tree/main/Task%204/Subtask%202) (in Polish) found in OLX app which was also tast during DareIT Challenge.
+
+* Two task during 4-day QA Marathon from GoIT - [part 1](https://drive.google.com/drive/folders/1SvJju7M6V0Ulv5gcUzWKidWzTS90sava) and [part 2](https://drive.google.com/drive/folders/1GE-kclK6-vETSyYUI5-1X-jAWuOTUSdO). Both task done in Jira.
+
+### SQL ###
+MySQL queries created for a task from DareIT Challenge - [task 1](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/tree/main/TASK%205/Subtask%203) and [part2](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/blob/main/TASK%206/Subtask%202.md).
