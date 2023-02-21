@@ -7,31 +7,52 @@ My name is Natalia Paczul and I am an aspiring Software Tester.
 I have background in Sociology and Slavic Studies. My current job gave me new opportunities and I became interested in software testing, although I don't have much experience. As I'm looking to transition my career to software testing, I'm passionate about continuing to develop my skills and expanding my knowledge. With my diverse academic experience, I'm creative and able to think outside of the box when tackling software testing tasks. I'm a quick learner and the flexibility of the software testing role allows me to continue to grow and evolve in my profession. I'm excited to enter the world of software testing, and to see what I can contribute in the field.
 
 ## Courses
-Dare IT Challenge: Zostań Testerem Manualnym
-SQL in 120 minutes on kursysql.pl
-4-day QA Marathon from GoIT
-6-day HTML/CSS Marathon from GoIT
+* DareIT Challenge: Zostań Testerem Manualnym
+
+* SQL in 120 minutes on [kursysql.pl](https://www.kursysql.pl/)
+
+* 4-day QA Marathon from GoIT
+
+* 6-day HTML/CSS Marathon from GoIT
+
+* Konsola Deweloperska on [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/konsola/)
 
 ## Tools
-Jira - bug tracker
-TestRail - test cases management
-Slack - for communication within the team
-MySQL - relational database management system
-GitHub
-HTML/CSS
-Markdown
+* Jira
+
+* TestRail 
+
+* Slack 
+
+* MySQL 
+
+* Xampp
+
+* DevTools
+
+* GitHub
+
+* HTML/CSS
+
+* Markdown
+
+* Screenpresso
 
 ## Books
-Testowanie oprogramowiania - Piotr Wicherski
-Zawód Tester - Radosław Smilgin
-Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach - Rafał Podraza
+*Testowanie oprogramowiania* - Piotr Wicherski
+
+*Zawód Tester* - Radosław Smilgin
+
+*Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach* - Rafał Podraza
+
+*Praktyczny kurs SQL* - Danuta Mendrala, Marcin Szeliga
 
 
 ## Blogs I read
-testerzy.pl
-testerka.pl
-remigiuszbednarczyk.pl.pl
-wyszkolewas.com.pl
+[testerzy.pl](https://testerzy.pl/)
+[testerka.pl](https://testerka.pl/)
+[wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
+[testuj.pl - Test, Bugs & Rock'n'Roll](https://testuj.pl/
 
 ## IT groups on Facebook I follow
 Testowanie oprogramowania
