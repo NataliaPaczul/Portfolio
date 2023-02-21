@@ -50,37 +50,29 @@ I have background in Sociology and Slavic Studies. My current job gave me new op
 
 ## Blogs I read
 [testerzy.pl](https://testerzy.pl/)
+
 [testerka.pl](https://testerka.pl/)
+
 [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
-[testuj.pl - Test, Bugs & Rock'n'Roll](https://testuj.pl/
+
+[testuj.pl - Test, Bugs & Rock'n'Roll](https://testuj.pl/)
 
 ## IT groups on Facebook I follow
-Testowanie oprogramowania
-Tester oprogramowania - wsparcie na starcie
-Dare IT Community
-Girls Who Tests Community
-Testuj, Dziewczyno!
 
-## My projects
-Bugs
+* Testowanie oprogramowania
 
-Bug on electro.pl site LINK to bug
-Bugs on Ben and Jerry's UK site LINK to bugs
-Test cases
+* Tester oprogramowania - wsparcie na starcie
 
-Test cases for Mango site LINK to test cases
-SQL
+* Dare IT Community
 
-HTML/CSS
+* Girls Who Tests Community
+
+* Testuj, Dziewczyno!
 
 ## Examples of my work
 
-Test cases and work in TestRail
-The training webshop was used to create demo test cases
-
-Test case for checking the checkout process (in English). Check the Google Sheets document here
-Test case for checking the addition of items to the cart (in English). Check the Google Sheets document here
-The training webpage Enotes was used for working with TestRail.
+### Test cases ###
+My test cases from [exploring testing](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/blob/main/Task%202/Subtask%201.md)(in English) and from [user stpry](https://github.com/NataliaPaczul/challenge_portfolio_Natalia/blob/main/Task%202/Subtask%202.md)(in English) to Futbol Kolektyw: Scouts Panel page. Priject done during DareIT Challenge: Zostań Testerem Manualnym.
 
 Test case (in Russian) for authorisation. Check the screenshot from TestRail here.
 Test case (in Russian) for adding an item to the cart. See the screenshot from TestRail here.
