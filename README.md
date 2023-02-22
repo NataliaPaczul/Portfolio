@@ -36,7 +36,7 @@ I have background in Sociology and Slavic Studies. My current job gave me new op
 
 * Screenpresso
 
-## Books
+## Books I recommend
 *Testowanie oprogramowiania* - Piotr Wicherski
 
 *Zawód Tester* - Radosław Smilgin
